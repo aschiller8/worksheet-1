@@ -135,6 +135,3 @@ Project ideas:
 
 
 Conflict line: Brady Garvin Katie Samson  Tyler Smith Aaron Schilling
-
- 
->>>>>>> 7fa3254b7715b209a06a84a3cca39b06e0aba9c3
